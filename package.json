@@ -12,5 +12,12 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "weirdcloud",
-  "description": "learning npm, node, express, mongodb, mongoose and api - fcc"
+  "description": "learning npm, node, express, mongodb, mongoose and api - fcc",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "azure",
+    "azure web app",
+    "github actions"
+  ]
 }
