@@ -20,5 +20,6 @@
     "azure web app",
     "github actions"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "version": "1.0.0"
 }
